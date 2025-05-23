@@ -4,6 +4,7 @@
 #include "ipvmultiCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 
+
 AipvmultiGameMode::AipvmultiGameMode()
 {
 	// set default pawn class to our Blueprinted character
